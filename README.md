@@ -14,3 +14,26 @@ Currently, I'm focused on improving my Python development skills and building pr
 - **Web:** HTML, CSS, Django, Flask
 - **Database:** MySQL
 - **Tools:** GitHub, VS Code
+
+## 📌 Projects
+
+### Smart Attendance System
+A web-based attendance management system developed as a BCA project.
+
+**Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript
+
+- Role-based system for Admin, Teacher, and Student
+- Attendance management and subject-wise attendance tracking
+- Student and teacher management
+- Attendance analytics and reports
+- Email notifications for attendance updates
+
+### Student Grievance Redressal System
+A web application developed during my internship to manage and track student grievances.
+
+**Technologies:** Python, Flask, MySQL, HTML, CSS
+
+- Student complaint registration and tracking
+- Admin, Department, and Office modules
+- Complaint status management
+- Complaint categorization and resolution tracking
