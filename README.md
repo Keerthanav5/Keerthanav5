@@ -37,3 +37,8 @@ A web application developed during my internship to manage and track student gri
 - Admin, Department, and Office modules
 - Complaint status management
 - Complaint categorization and resolution tracking
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/keerthana-v-873455331)
+- [GitHub](https://github.com/Keerthanav5)
